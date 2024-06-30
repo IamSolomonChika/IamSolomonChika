@@ -1,4 +1,4 @@
-# I am Solomon Chika
+# 💻 I am Solomon Chika
 
 **`Code Spcialist and CraftMan`**
 
