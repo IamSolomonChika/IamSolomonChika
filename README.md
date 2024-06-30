@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamSolomonChika
 - 👀 I’m interested in working with a team that will encourage me and push me to master JavaScript
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m a JavaScript Addict-In-A-Good-Way.
 - 💞️ I’m looking to collaborate on anything suitable for me to learn fast
 - 📫 How to reach me via telegram @iamsolomonchika
 
