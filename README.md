@@ -27,6 +27,7 @@ I am a Full-stack Blockchain developer, Digital Marketer, Python Programmer and 
 <img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <br />
+
 ---
 ## Stats 🔢
 ![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
