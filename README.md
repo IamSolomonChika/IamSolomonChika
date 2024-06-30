@@ -30,6 +30,6 @@ I am a Full-stack Blockchain developer, Digital Marketer, Python Programmer and 
 
 ---
 ## Stats 🔢
-![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimmyIsANerd&count_private=true&show_icons=true&theme=radical)
+![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSolomonChika&count_private=true&show_icons=true&theme=radical)
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmyIsANerd)](https://github.com/TimmyIsANerd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSolomonChika)](https://github.com/TimmyIsANerd/github-readme-stats)
