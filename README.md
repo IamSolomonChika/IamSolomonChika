@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything suitable for me to learn fast
 - 📫 How to reach me via telegram @iamsolomonchika
 
-**Just Me**
+**`Just Me`**
+#Alpha
 
 <!---
 IamSolomonChika/IamSolomonChika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
