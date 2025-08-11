@@ -2,7 +2,7 @@
 
 **`Code Specialist and Craftsman`**
 
-I am a Full-stack Blockchain Developer, Python Programmer, and AI Engineer creating people-oriented projects to solve real-world problems. I am dedicated to leveraging blockchain and AI to build solutions that promote financial freedom.
+I am a Full-stack Blockchain Developer, Python Programmer, and ML/AI Engineer creating people-oriented projects to solve real-world problems. I am dedicated to leveraging blockchain and AI to build solutions that promote financial freedom.
 
 ---
 
