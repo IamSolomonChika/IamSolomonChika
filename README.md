@@ -89,6 +89,15 @@ A full commerce ecosystem for digital product sales in the Nigerian market. Buil
 
 ---
 
+### [EvriCash](https://user-swart-five.vercel.app) — Nigerian Personal Finance & Tax Assistant
+> *Live in production · NTA 2025 compliant*
+
+A full-featured personal finance dashboard tailored for the Nigerian market. EvriCash covers tax calculation (NTA 2025), tax relief tracking (rent, pension, NHF, NHIS, life insurance, mortgage), cash flow monitoring, investment portfolio tracking, crypto wallet, loan management, and an AI-powered tax assistant. Users can generate relief certificates and get AI-driven insights from their bank statements.
+
+**Stack:** Next.js · TypeScript · Vercel · GPT-4 integration
+
+---
+
 ### [AmadiFi UI³ — Umahi Intelligent Infrastructure Initiative](https://amadifi.com)
 > *Government proposal · Federal Ministry of Works, Nigeria*
 
