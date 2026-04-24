@@ -1,71 +1,149 @@
-# 💻 I am Solomon Chika
+<div align="center">
 
-**`Code Specialist and Craftsman`**
+# Solomon Chika
+### Founder & CEO · AmadiFi Limited · Lagos, Nigeria
 
-I am a Full-stack Blockchain Developer, Python Programmer, and ML/AI Engineer creating people-oriented projects to solve real-world problems. I am dedicated to leveraging blockchain and AI to build solutions that promote financial freedom.
+**Full-Stack Engineer · AI/ML Builder · Blockchain Developer · Product Strategist**
 
----
+I build end-to-end digital products — from pixel-perfect frontends to production infrastructure — and lead ventures that sit at the intersection of AI, fintech, and emerging markets.
 
-### 🧰 Languages and Tools
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/iamsolomonchika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsolomonchika/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solomon@amadifi.com)
 
-<p>
-    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-    <img alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
-    <img alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
-    <img alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    <img alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-    <img alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-    <img alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-    <img alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-</p>
+</div>
 
 ---
 
-## 🚀 My Projects
+## 👨‍💻 About Me
 
-Here are some of my key projects.
+I'm the founder of **AmadiFi Limited**, a technology company based in Lagos building software, AI systems, and digital infrastructure across multiple verticals. I operate across the full stack — writing production code, architecting systems, and shipping business strategy simultaneously.
 
-### Project 1: [Project Name](https://github.com/IamSolomonChika/project-link)
-*   **Description:** A brief description of the project, its purpose, and the technologies used.
-*   **Role:** My role in the project (e.g., Lead Developer, Contributor).
-*   **Key Features:**
-    *   Feature A: A short explanation of a key feature.
-    *   Feature B: Another key feature.
+My work lives at the edge of **AI × fintech × African markets**. I'm currently building:
 
-### Project 2: [Another Project](https://github.com/IamSolomonChika/another-project)
-*   **Description:** A brief description of the project, its purpose, and the technologies used.
-*   **Role:** My role in the project (e.g., Lead Developer, Contributor).
-*   **Key Features:**
-    *   Feature X: A short explanation of a key feature.
-    *   Feature Y: Another key feature.
+- 🤖 **AdCopyLab** — an AI SaaS that predicts ad performance before spend, currently in pre-seed raise
+- 💳 **Crypto payment infrastructure** for Next.js/Convex webapps, including KYC-free privacy-first processors
+- 📦 **Digital product publishing** under [intellimesh.xyz](https://intellimesh.xyz) with Paystack integrations, affiliate tracking, and multi-tier pricing
 
-_(Note: You can add more projects by following this template.)_
+I don't just write code — I ship complete systems. Landing pages, checkout flows, email pipelines, government-grade proposals, investor decks. If it can be built, I've probably done it end to end.
 
 ---
-## Stats 🔢
-![Solomons's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamSolomonChika&count_private=true&show_icons=true&theme=radical)
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSolomonChika)](https://github.com/TimmyIsANerd/github-readme-stats)
+
+## 🛠️ What I Build
+
+```
+Full-Stack Web Apps     →  Next.js · React · TypeScript · Convex · Node.js
+Payments & Commerce     →  Paystack · Crypto payment processors · Affiliate systems
+AI / ML Systems         →  TensorFlow · PyTorch · Scikit-learn · LLM integration
+Blockchain              →  Smart contracts · Web3 infrastructure · DeFi tooling
+Data & Automation       →  Python · Pandas · Bash scripting · Linux systems
+```
+
+---
+
+## 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img align="left" alt="Plotly" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+
+<br clear="left"/>
+
+---
+
+## 🚀 Featured Projects
+
+### [AdCopyLab](https://amadifi.com) — AI Ad Performance Prediction SaaS
+> *Currently raising pre-seed · Investor materials available on request*
+
+An AI-powered SaaS that predicts the performance of ad creatives before any budget is spent. Built for performance marketers who want to cut waste and double down on what works. Targeting a global TAM in digital advertising analytics.
+
+**Stack:** Next.js · TypeScript · Convex · AI/ML pipeline
+
+---
+
+### [intellimesh.xyz](https://intellimesh.xyz) — Digital Product Publishing Platform
+> *Live in production*
+
+A full commerce ecosystem for digital product sales in the Nigerian market. Built end-to-end: storefront, multi-tier pricing, Paystack payment integration, affiliate tracking system, upsell flows, and dual-provider email delivery.
+
+**Stack:** Next.js · Convex · Paystack · TypeScript · Email automation
+
+---
+
+---
+
+### [AmadiFi UI³ — Umahi Intelligent Infrastructure Initiative](https://amadifi.com)
+> *Government proposal · Federal Ministry of Works, Nigeria*
+
+A multi-billion Naira proposal for AI-powered highway security infrastructure across Nigerian federal roads — covering surveillance, incident detection, command centers, and a phased financial model. Submitted on behalf of AmadiFi Limited.
+
+**Domain:** AI · Computer Vision · Infrastructure · Public Sector
+
+---
+
+### [FundWise](https://github.com/IamSolomonChika/FundWise)
+> *Contracted investment platform*
+
+An investment platform that allocates public funds across sports markets, forex, crypto, and flash loans. Full-stack JavaScript build with complex fund-routing logic.
+
+**Stack:** JavaScript · Node.js
+
+---
+
+### [Smart Money Concepts](https://github.com/IamSolomonChika/smart-money-concepts)
+> *Algorithmic trading toolkit*
+
+Python package that implements ICT's smart money concepts for algorithmic trading — providing programmatic access to institutional-grade market structure indicators.
+
+**Stack:** Python
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+[![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamSolomonChika&count_private=true&show_icons=true&theme=radical)](https://github.com/IamSolomonChika)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSolomonChika)](https://github.com/IamSolomonChika)
+
+</div>
+
+---
+
+## 💼 Open To
+
+- **Contract / freelance** full-stack development (Next.js, TypeScript, Python)
+- **Technical advisory** for AI product teams and African fintech startups
+- **Co-founder conversations** in AI, fintech, or infrastructure
+- **Investment / angel conversations** around AdCopyLab
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious vision.
+| Channel | Link |
+|---|---|
+| 📧 Email | [solomon.chika1@gmail.com](mailto:solomon.chika1@gmail.com) · [solomon@amadifi.com](mailto:solomon@amadifi.com) |
+| 🐦 Twitter/X | [@iamsolomonchika](https://twitter.com/iamsolomonchika) |
+| 💼 LinkedIn | [linkedin.com/in/iamsolomonchika](https://linkedin.com/in/iamsolomonchika) |
+| 🌐 Company | [amadifi.com](https://amadifi.com) |
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile/)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-
-Feel free to reach out!
+> *Building for Africa. Shipping for the world.*
